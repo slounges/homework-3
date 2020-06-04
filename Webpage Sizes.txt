@@ -1,0 +1,23 @@
+﻿Image:
+136pt.
+100.53 pt.
+
+
+Logo Area:
+418.54pt.
+100.53pt.
+
+
+Menu Area:
+70.43pt.
+100.53pt.
+
+
+Body:
+418.54pt
+218.89
+
+
+Footer:
+717pt.
+52.6pt
