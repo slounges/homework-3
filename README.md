@@ -2,7 +2,7 @@
 
 
 ## Description
-This repo is for Web Development project 2.
+This repo is for Web Development project 3.
 
 ## MIT Liscence
 
