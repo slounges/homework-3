@@ -16,13 +16,11 @@
 }
 
 .item{
-	background: grey;
+	background: black;
 	color: white;
 	padding: 10px;
 }
-.item:nth-child(even){
-	background: black;
-}
+
 
 .item5{
 grid-column: span 3;
